@@ -1,3 +1,3 @@
-server_name: wrappmsg.com
+server_name: example.com
 server_port: 80
-root_directory: /var/www/wrappmsg.com/public
+root_directory: /var/www/example.com/public
