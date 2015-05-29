@@ -1,0 +1,10 @@
+---
+- name: Provision wrappmsg.com
+  hosts: all
+  user: vagrant
+  sudo: yes
+  remote_user: vagrant
+
+  roles:
+    - common
+    - nginx
